@@ -198,18 +198,22 @@ Collection of cybersecurity scripts and automation tools.
 
 # 📫 Connect with Me
 
-📧 Email: YOUR_EMAIL@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
-🌐 Portfolio: YOUR_PORTFOLIO_URL
-
-🐙 GitHub: https://github.com/Naga2006706
-
----
-
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer"/>
+<a href="https://www.linkedin.com/in/chatrapathi-venkata-naga-ganesh-5679842b5/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:venkatap2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Naga2006706">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </p>
